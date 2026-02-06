@@ -75,6 +75,12 @@ def my_function4(pos_arg1, pos_arg2, /, arg3, *, keywd_arg4, keywd_arg5):
 def my_function5(*the_list, special_keyword_arg = " "): # saves all values in the first arg and optionaly you can save a value to the keyword arg
     pass
 
+#4.9.5 Unpacking Argument Lists
+
+small_list = [0, 10]
+o = list(range(*small_list))
+print(o)
+
 #4.9.6 Lambda Expressions
 
 def my_function6(y):
