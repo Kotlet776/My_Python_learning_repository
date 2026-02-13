@@ -1,0 +1,18 @@
+File: C:\Programowanie\Road\learning\4_More_control_flow_tools\ma³e_projekty\dateanalyzer\test.txt
+Total lines: 22
+Empty lines: 1
+Total non-empty lines: 21
+Invalid format lines: 0
+Invalid date lines: 3
+Unknown level lines: 1
+Level counts:
+INFO: 2
+WARNING: 3
+ERROR: 12
+OTHER: 1
+Unique days: 2
+Worst day (ERRORs): 2024-01-01 (8)
+Top 3 ERROR messages:
+1) Something went wrong - 6
+2) Something very went wrong - 4
+3) Abracadabra - 2
