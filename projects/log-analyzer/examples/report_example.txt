@@ -1,4 +1,4 @@
-File: C:\Programowanie\Road\learning\4_More_control_flow_tools\ma³e_projekty\dateanalyzer\test.txt
+File: C:\Programowanie\Road\learning\4_More_control_flow_tools\maï¿½e_projekty\dateanalyzer\test.txt
 Total lines: 22
 Empty lines: 1
 Total non-empty lines: 21
